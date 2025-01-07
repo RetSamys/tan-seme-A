@@ -27,3 +27,5 @@ insa pi supa lape | HELP12 | SL
 kisa lili | HELP13 | KL
 suli lukin tan ilo Popsie | HELP14 | POPS
 poka luka tan jan Nopu | HELP15 | NOP
+
+![image](help1-15.svg)
