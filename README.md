@@ -29,4 +29,4 @@ suli lukin tan ilo Popsie | HELP14 | POPS
 poka luka tan jan Nopu | HELP15 | NOP
 sitelen Juwan | HELP16 | JUWAN
 
-![image](help1-16.png)
+![image](help1-16.svg)
