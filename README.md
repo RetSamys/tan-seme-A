@@ -27,6 +27,12 @@ insa pi supa lape | HELP12 | SL
 kisa lili | HELP13 | KL
 suli lukin tan ilo Popsie | HELP14 | POPS
 poka luka tan jan Nopu | HELP15 | NOP
-sitelen Juwan | HELP16 | JUWAN
+sitelen pakala Juwan #1 | HELP16 | JUWAN
+sitelen pakala Juwan #2 | HELP17 | JUWA
+sitelen pakala Juwan #3 | HELP18 | JUW
+sitelen Lakansina ike | HELP19 | LAKANSINA
+sitelen luka ante tan soweli lili Mili | HELP20 | MILI
+sitelen weka tan jan Nopu | HELP21 | NO
+sitelen kulupu tan pika Tejo | HELP22 | TEJO
 
-![image](help1-16.png)
+![image](help1-22.svg)
