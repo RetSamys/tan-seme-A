@@ -35,4 +35,4 @@ sitelen luka ante tan soweli lili Mili | HELP20 | MILI
 sitelen weka tan jan Nopu | HELP21 | NO
 sitelen kulupu tan pika Tejo | HELP22 | TEJO
 
-![image](help1-22.svg)
+![image](help.svg)
