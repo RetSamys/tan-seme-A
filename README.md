@@ -34,5 +34,9 @@ sitelen Lakansina ike | HELP19 | LAKANSINA
 sitelen luka ante tan soweli lili Mili | HELP20 | MILI
 sitelen weka tan jan Nopu | HELP21 | NO
 sitelen kulupu tan pika Tejo | HELP22 | TEJO
+sitelen Psyweli | HELP23 | PSY
+sitelen pona lili tan jan Stella Winx Club | HELP24 | STELLA
+luka Enta | HELP25 | ENTA
+sitelen Kima | HELP26 | KIMA
 
 ![image](help.svg)
