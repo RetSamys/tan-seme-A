@@ -38,5 +38,22 @@ sitelen Psyweli | HELP23 | PSY
 sitelen pona lili tan jan Stella Winx Club | HELP24 | STELLA
 luka Enta | HELP25 | ENTA
 sitelen Kima | HELP26 | KIMA
+VeryLegibleSP | HELP27 | LEGIBLE
+soweli mu tan soweli mu | HELP28 | MU
+sitelen Toluneko | HELP29 | TOLUNEKO
+sitelen suwi pi ijo vivi | HELP30 | VIVI
+sitelen pona pi nasin Italija | HELP31 | ITALIJA
+sitelen pona Elopa pi ma Sapu | HELP32 | SAPU
+sitelen pi pipi tawa | HELP33 | PIPI
+sitelen pi pan Nuto | HELP34 | NUTO
+Sitelen Nanpa | HELP35 | TAMALU
+sitelen luka Sowan | HELP36 | SOWAN
+sitelen g | HELP37 | G
+musi leko tan jan Lusi | HELP38 | LUSI
+musi leko HD tan jan Lusi | HELP39 | LUSIHD
+linja sin tan soko sijeni | HELP40 | SIJENI
+linja tenpo tan jan Wasopimeja | HELP41 | TENPO
+kiwen jelo | HELP42 | JELO
+FRT siteren | HELP43 | FRT
 
 ![image](help.svg)
